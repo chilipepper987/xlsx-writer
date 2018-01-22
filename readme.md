@@ -1,1 +1,1 @@
-Yet another OOXML writer for generating xlsx spreadsheets. Focus is on speed.
+Yet another OOXML writer for generating xlsx spreadsheets.
