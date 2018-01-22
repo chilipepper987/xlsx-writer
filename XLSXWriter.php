@@ -1,6 +1,6 @@
 <?php
 
-namespace chilipepper987;
+namespace chilipepper987\XLSXWriter;
 
 /**
 @author Seth Cohen
